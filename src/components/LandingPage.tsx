@@ -257,14 +257,25 @@ export const LandingPage: React.FC<{ onLaunchDemo?: () => void }> = ({ onLaunchD
             <a href="#faq" className="px-3 py-1 rounded-full hover:text-white transition-colors">FAQ</a>
           </nav>
 
-          <div className="flex items-center gap-3 shrink-0">
+          <div className="flex items-center gap-2.5 shrink-0">
+            <a
+              href="https://github.com/Xalid-Go/xGhost"
+              target="_blank"
+              rel="noreferrer"
+              className="flex items-center gap-1.5 h-8 px-3 rounded-lg bg-white/5 hover:bg-white/10 border border-white/10 text-xs text-white transition-all hover:scale-[1.02]"
+              title="Поставить звезду на GitHub"
+            >
+              <Star className="w-3.5 h-3.5 text-amber-400 fill-amber-400" />
+              <span className="hidden sm:inline">Star on GitHub</span>
+            </a>
+
             {onLaunchDemo && (
               <button
                 onClick={onLaunchDemo}
-                className="hidden sm:flex items-center gap-1.5 h-8 px-3 rounded-lg bg-[#161920] hover:bg-[#1e232e] border border-white/10 text-xs text-[#94A3B8] hover:text-white transition-all"
+                className="hidden md:flex items-center gap-1.5 h-8 px-3 rounded-lg bg-[#161920] hover:bg-[#1e232e] border border-white/10 text-xs text-[#94A3B8] hover:text-white transition-all"
               >
                 <Terminal className="w-3.5 h-3.5 text-emerald-400" />
-                <span>Открыть веб-HUD</span>
+                <span>Веб-HUD</span>
               </button>
             )}
 
