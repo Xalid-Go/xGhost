@@ -333,7 +333,7 @@ export const LandingPage: React.FC<{ onLaunchDemo?: () => void }> = ({ onLaunchD
           {/* CTA Buttons with high-tech Shimmer */}
           <div className="flex flex-col sm:flex-row items-center justify-center gap-3.5 mt-8 w-full max-w-md">
             <a
-              href="https://github.com/jonskyai-1654/xghost/releases"
+              href="https://github.com/Xalid-Go/xGhost/releases/download/v1.0.0/xGhost-Copilot-1.0.0-arm64.dmg"
               target="_blank"
               rel="noreferrer"
               className="relative overflow-hidden group flex items-center justify-center gap-2.5 px-6 h-12 rounded-xl bg-white hover:bg-zinc-100 text-black font-bold text-xs transition-all w-full sm:w-auto shadow-[0_0_30px_rgba(255,255,255,0.2)] hover:scale-[1.02] active:scale-[0.98]"
@@ -345,7 +345,7 @@ export const LandingPage: React.FC<{ onLaunchDemo?: () => void }> = ({ onLaunchD
             </a>
 
             <a
-              href="https://github.com/jonskyai-1654/xghost/releases"
+              href="https://github.com/Xalid-Go/xGhost/releases/download/v1.0.0/xGhost-Copilot-Setup-1.0.0.exe"
               target="_blank"
               rel="noreferrer"
               className="relative overflow-hidden group flex items-center justify-center gap-2.5 px-6 h-12 rounded-xl bg-[#161920] hover:bg-[#1f232d] text-white text-xs font-semibold border border-white/10 transition-all w-full sm:w-auto hover:border-white/20 hover:scale-[1.02] active:scale-[0.98]"
@@ -1012,7 +1012,7 @@ export const LandingPage: React.FC<{ onLaunchDemo?: () => void }> = ({ onLaunchD
                 </div>
               </div>
               <a
-                href="https://github.com/jonskyai-1654/xghost/releases"
+                href="https://github.com/Xalid-Go/xGhost/releases/download/v1.0.0/xGhost-Copilot-1.0.0-arm64.dmg"
                 target="_blank"
                 rel="noreferrer"
                 className="relative overflow-hidden group/btn flex items-center justify-center gap-2 w-full py-3 px-4 rounded-xl bg-white text-black font-semibold text-xs hover:bg-zinc-100 transition-all shadow-[0_0_20px_rgba(255,255,255,0.15)] hover:scale-[1.01]"
@@ -1037,20 +1037,20 @@ export const LandingPage: React.FC<{ onLaunchDemo?: () => void }> = ({ onLaunchD
                 </div>
                 <p className="text-xs text-[#94A3B8] mb-4">Портативный .exe без установки для Windows 10 &amp; 11 с DirectX-маскировкой.</p>
                 <div className="space-y-1.5 text-[11px] font-mono text-[#64748B] mb-5 bg-[#080a0f] p-3 rounded-xl border border-white/5">
-                  <div className="flex justify-between"><span>Версия</span><span className="text-white">1.0.4 Release</span></div>
+                  <div className="flex justify-between"><span>Версия</span><span className="text-white">1.0.0 Release</span></div>
                   <div className="flex justify-between"><span>Тип</span><span className="text-white">Portable (Без установки)</span></div>
                   <div className="flex justify-between"><span>Маскировка</span><span className="text-white">WDA_EXCLUDEFROMCAPTURE</span></div>
                 </div>
               </div>
               <a
-                href="https://github.com/jonskyai-1654/xghost/releases"
+                href="https://github.com/Xalid-Go/xGhost/releases/download/v1.0.0/xGhost-Copilot-Setup-1.0.0.exe"
                 target="_blank"
                 rel="noreferrer"
                 className="relative overflow-hidden group/btn flex items-center justify-center gap-2 w-full py-3 px-4 rounded-xl bg-[#161920] hover:bg-[#1e232e] text-white font-semibold text-xs border border-white/10 transition-all hover:scale-[1.01]"
               >
                 <div className="absolute inset-0 -translate-x-full group-hover/btn:animate-shimmer bg-gradient-to-r from-transparent via-white/10 to-transparent pointer-events-none" />
                 <Download className="w-4 h-4 text-sky-400" />
-                <span>Скачать для Windows (.exe, 70 МБ)</span>
+                <span>Скачать для Windows (.exe, 73 МБ)</span>
               </a>
             </div>
           </div>
@@ -1177,7 +1177,7 @@ export const LandingPage: React.FC<{ onLaunchDemo?: () => void }> = ({ onLaunchD
             </div>
 
             <div className="flex items-center gap-5">
-              <a href="https://github.com/jonskyai-1654/xghost" target="_blank" rel="noreferrer" className="hover:text-white transition-colors">GitHub</a>
+              <a href="https://github.com/Xalid-Go/xGhost" target="_blank" rel="noreferrer" className="hover:text-white transition-colors">GitHub</a>
               <span>•</span>
               <a href="#stealth-cloak" className="hover:text-white transition-colors">Архитектура Cloak</a>
               <span>•</span>
