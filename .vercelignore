@@ -1,0 +1,8 @@
+release
+dist-electron
+node_modules
+.git
+*.dmg
+*.exe
+public/*.dmg
+public/*.exe

@@ -1,0 +1,43 @@
+name: 🐛 Bug Report
+description: Report an issue or unexpected behavior in xGhost
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping improve xGhost!
+  - type: input
+    id: os
+    attributes:
+      label: Operating System & Version
+      placeholder: macOS 14.4 Sonoma (Apple Silicon M2) / Windows 11
+    validations:
+      required: true
+  - type: dropdown
+    id: provider
+    attributes:
+      label: Active AI Provider
+      options:
+        - Google Gemini (gemini-2.0-flash)
+        - Groq (Llama 3.3 70B)
+        - OpenAI (gpt-4o)
+        - Anthropic Claude (claude-3-5-sonnet)
+        - None / Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the Bug
+      placeholder: What happened, and what did you expect instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      placeholder: |
+        1. Open xGhost
+        2. Press shortcut...
+        3. See error...
+    validations:
+      required: true
