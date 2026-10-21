@@ -1,6 +1,6 @@
 # 👻 xGhost Copilot — Скрытный ассистент для онлайн-собеседований
 
-[English Documentation](README.md) • [🌐 Веб-сайт](https://xghost.vercel.app) • [📦 Скачать релизы](https://github.com/your-username/xghost/releases)
+[English Documentation](README.md) • [🌐 Веб-сайт](https://xghost.vercel.app) • [📦 Скачать релизы](https://github.com/Xalid-Go/xGhost/releases)
 
 > **Бесплатный open-source оверлей для прохождения технических интервью.**
 > Ответы на естественном языке Senior-разработчика (без «ИИшности»), моментальное распознавание задач с экрана (LeetCode, тесты, архитектура) и аппаратная невидимость при демонстрации экрана в Zoom, Google Meet и Teams.
@@ -27,7 +27,7 @@
 
 ### Запуск из исходного кода
 ```bash
-git clone https://github.com/your-username/xghost.git
+git clone https://github.com/Xalid-Go/xGhost.git
 cd xghost
 npm install
 npm run dev:electron

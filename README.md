@@ -15,13 +15,13 @@
 *Invisible to Zoom, Meet & Teams screen sharing. Real Senior-level conversational answers. Zero monthly subscriptions.*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-blue?logo=apple&logoColor=white)](https://github.com/your-username/xghost/releases)
-[![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-M1%20%2F%20M2%20%2F%20M3%20%2F%20M4-success?logo=apple)](https://github.com/your-username/xghost/releases)
+[![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-blue?logo=apple&logoColor=white)](https://github.com/Xalid-Go/xGhost/releases)
+[![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-M1%20%2F%20M2%20%2F%20M3%20%2F%20M4-success?logo=apple)](https://github.com/Xalid-Go/xGhost/releases)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-xghost.vercel.app-emerald?logo=vercel)](https://xghost.vercel.app)
 [![Anti-AI](https://img.shields.io/badge/Anti--AI%20Engine-100%25%20Natural%20Speech-ff69b4)](#-the-anti-ai-engine)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-[**🌐 Interactive Web Demo**](https://xghost.vercel.app) • [**📦 Download Latest Release**](https://github.com/your-username/xghost/releases) • [**🇷🇺 Документация на русском**](README_RU.md)
+[**🌐 Interactive Web Demo**](https://xghost.vercel.app) • [**📦 Download Latest Release**](https://github.com/Xalid-Go/xGhost/releases) • [**🇷🇺 Документация на русском**](README_RU.md)
 
 </div>
 
@@ -119,7 +119,7 @@ graph TD
 ## 🚀 Quick Start
 
 ### Option A: Pre-built Binaries (Zero Setup)
-Download the latest verified release from [**Releases**](https://github.com/your-username/xghost/releases):
+Download the latest verified release from [**Releases**](https://github.com/Xalid-Go/xGhost/releases):
 - **macOS Apple Silicon (M1/M2/M3/M4)**: `xGhost Copilot-1.0.0-arm64.dmg`
 - **Windows (10/11 x64)**: `xGhost Copilot Setup 1.0.0.exe`
 
@@ -132,7 +132,7 @@ Download the latest verified release from [**Releases**](https://github.com/your
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-username/xghost.git
+git clone https://github.com/Xalid-Go/xGhost.git
 cd xghost
 
 # 2. Install dependencies

@@ -21,7 +21,7 @@ There are many ways to contribute:
 ### Steps
 1. Fork the repo and clone your fork:
    ```bash
-   git clone https://github.com/your-username/xghost.git
+   git clone https://github.com/Xalid-Go/xGhost.git
    cd xghost
    ```
 2. Install dependencies:

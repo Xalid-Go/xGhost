@@ -1,7 +1,31 @@
 {
   "name": "xghost",
   "version": "1.0.0",
-  "description": "Stealth macOS Interview Copilot HUD with anti-AI natural responses",
+  "description": "Ultra-stealth, anti-AI open-source interview copilot for macOS & Windows",
+  "author": "xGhost Contributors",
+  "license": "MIT",
+  "homepage": "https://xghost.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xalid-Go/xGhost.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Xalid-Go/xGhost/issues"
+  },
+  "keywords": [
+    "interview",
+    "interview-preparation",
+    "copilot",
+    "stealth",
+    "hud",
+    "anti-ai",
+    "macos",
+    "electron",
+    "gemini",
+    "groq",
+    "leetcode",
+    "system-design"
+  ],
   "main": "dist-electron/main.js",
   "type": "module",
   "scripts": {
